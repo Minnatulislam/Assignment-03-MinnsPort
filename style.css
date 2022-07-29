@@ -1,0 +1,29 @@
+.carousel-caption{
+    bottom: 180px;
+    
+    color: antiquewhite;
+  }
+  .carousel-caption h4{
+    font-size: 80px;
+  }
+  
+  #link a {
+    text-decoration: none !important;
+    color: white;
+    font-weight: 500;
+  }
+  
+  #link a:hover {
+    color: blue;
+  }
+  
+  #submit {
+    margin-bottom: 5px;
+  }
+  .rating{
+    color: darkorange;
+  }
+  .social-icon :hover{
+    color: blue;
+  }
+  
